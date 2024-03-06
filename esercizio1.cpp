@@ -26,8 +26,7 @@ int main() {
 
     printf("\nSe sei soddisfatto del risultato, lascia un voto da 1 a 5! ");
     scanf("%d", &voto);
-    if (voto < 3) 
-    {
+    if (voto < 3) {
          printf("\nAllora la prossima volta fattelo da solo!\n\n");
      }
 
