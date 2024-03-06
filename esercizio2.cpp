@@ -3,8 +3,8 @@
 int main() {
     //messaggio di benvenuto
     printf("\nBenenuto nel programma di calcolo della media tra due valori interi!\n\n");
+    
     //definizione variabili
-
     int numa, numb;
     double media;
 
